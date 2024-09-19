@@ -4,7 +4,8 @@
 ## About Me
 - Raised from the Los Angeles area
 - Graduated from UCSD with a degree in Cognitive Science
-- Developed in VR, full stack, and data analysis environments
+- Experience developing in VR and full stack environments
+- Worked on creating projects focused on data analysis
 
 ## Skills
 - Programming Languages (JavaScript, TypeScript, Python, C#, Ruby, Java)
