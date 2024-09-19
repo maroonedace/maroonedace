@@ -1,16 +1,15 @@
-## Hi there 👋
+# Anthony Ostia
+## Software Developer
 
-<!--
-**meximanian/meximanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer based in the Los Angeles area.
 
-Here are some ideas to get you started:
+## Skills
+•	Programming Languages (JavaScript, TypeScript, Python, C#, Ruby, Java)
+•	Core Web Skills (HTML, CSS)
+•	Frontend Frameworks (React.js, Next.js)
+•	Backend Frameworks (Fast API, Ruby on Rails, Node.js)
+•	Database Management (PostgreSQL, MongoDB, Supabase)
+•	CSS Frameworks (Tailwind CSS, Material UI, Bootstrap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Info
+LinkedIn - https://www.linkedin.com/in/aostia/
