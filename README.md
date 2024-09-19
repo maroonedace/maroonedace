@@ -14,6 +14,3 @@
 - Backend Frameworks (Fast API, Ruby on Rails, Node.js)
 - Database Management (PostgreSQL, MongoDB, Supabase)
 - CSS Frameworks (Tailwind CSS, Material UI, Bootstrap)
-
-## Contact Info
-LinkedIn - https://www.linkedin.com/in/aostia/
