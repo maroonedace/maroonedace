@@ -35,7 +35,7 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
 
 ## 🚀 Featured Projects
 - **[Portfolio Website](https://anthony-ostia.vercel.app)**  
