@@ -41,7 +41,7 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 - **[Portfolio Website](https://anthony-ostia.vercel.app)**  
   A sleek portfolio built with Next.js, Tailwind CSS, and Framer Motion.
 
-- **[TritonXR](https://github.com/maroonedace/FoodQuest)**  
+- **[Food Quest](https://github.com/maroonedace/FoodQuest)**  
   XR app teaching users how to nourish themselves through nutrition
 
 - **[Pokédex-Ace](https://github.com/maroonedace/Pokedex-Ace)**  
