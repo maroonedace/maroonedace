@@ -3,6 +3,13 @@ I’m a Software Engineer based in Los Angeles with a passion for building and e
 
 I enjoy tackling complex problems and bringing ideas to life through clean code, thoughtful design, and user-centric experiences. Whether it’s front-end polish, back-end logic, or visualizing data in new ways, I’m always excited to push boundaries and learn something new.
 
+## 🚀 Portfolio
+
+> A **Next.js 14** site styled with **Tailwind CSS** and animated with **Framer Motion**.
+
+[Live website →](https://anthony-ostia.vercel.app)  
+[Source code →](https://github.com/maroonedace/Portfolio)
+
 ## 🧰 Tech Stack
 ### Languages & Runtime
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
