@@ -45,9 +45,6 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
 
 ## 🚀 Featured Projects
-- **[Portfolio Website](https://anthony-ostia.vercel.app)**  
-  A sleek portfolio built with Next.js, Tailwind CSS, and Framer Motion.
-
 - **[Food Quest](https://github.com/maroonedace/FoodQuest)**  
   XR app teaching users how to nourish themselves through nutrition
 
