@@ -49,6 +49,7 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CE2C4F?logo=ruby&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
