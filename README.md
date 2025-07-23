@@ -81,7 +81,7 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)
 
-### 🗂 Documentation & Productivity  
+### 📚 Documentation & Productivity  
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 
