@@ -84,8 +84,11 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?logo=godot-engine&logoColor=white)
 
 ## 🚀 Featured Projects
+- **[A Doki to Remember](https://github.com/maroonedace/A-Doki-To-Remember/)**  
+  A game jam project developed over two weeks.
+  
 - **[Food Quest](https://github.com/maroonedace/FoodQuest)**  
-  XR app teaching users how to nourish themselves through nutrition
+  XR app teaching users how to nourish themselves through nutrition.
 
 - **[Pokédex-Ace](https://github.com/maroonedace/Pokedex-Ace)**  
   A lightweight cross-platform app that allows the user to view Pokemon in a TCG inspired card format.
