@@ -58,6 +58,7 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 
 ### DevOps & Infrastructure
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
