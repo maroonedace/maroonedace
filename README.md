@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Anthony Ostia
+# Hi, I'm Anthony Ostia
 I’m a Software Engineer based in Los Angeles with a passion for building and exploring across the tech spectrum. My work spans from developing full-stack web applications to crafting immersive VR environments and conducting insightful data analysis. 
 
 I enjoy tackling complex problems and bringing ideas to life through clean code, thoughtful design, and user-centric experiences. Whether it’s front-end polish, back-end logic, or visualizing data in new ways, I’m always excited to push boundaries and learn something new.
 
-## 🚀 Portfolio
+## Portfolio
 [Live website →](https://anthonyostia.com)  
 [Source code →](https://github.com/maroonedace/Portfolio)
 
