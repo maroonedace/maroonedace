@@ -1,7 +1,7 @@
 # Hi, I'm Anthony Ostia
-I’m a Software Engineer based in Los Angeles with a passion for building and exploring across the tech spectrum. My work spans from developing full-stack web applications to crafting immersive VR environments and conducting insightful data analysis. 
+I am a Software Engineer based in Southern California with a passion for building and exploring across the technical spectrum. My experience includes developing full stack web applications, crafting immersive VR environments, contributing to game development, and performing insightful data analysis powered by machine learning and AI.
 
-I enjoy tackling complex problems and bringing ideas to life through clean code, thoughtful design, and user-centric experiences. Whether it’s front-end polish, back-end logic, or visualizing data in new ways, I’m always excited to push boundaries and learn something new.
+I enjoy tackling complex problems and bringing ideas to life through clean code, thoughtful design, and user-focused experiences. Whether refining front-end interfaces, optimizing back-end systems, advancing immersive VR and game development, or applying machine learning for data-driven insights, I am always eager to push boundaries and learn something new.
 
 ## Portfolio
 [Live website →](https://anthonyostia.com)  
