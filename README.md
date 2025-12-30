@@ -63,9 +63,6 @@
 ## Featured Projects
 - **[Criwin](https://github.com/maroonedace/Criwin/)**  
   A discord bot for the Crimson Winter Mountain.
-  
-- **[Food Quest](https://github.com/maroonedace/FoodQuest)**  
-  XR app teaching users how to nourish themselves through nutrition.
 
 - **[AceDex](https://github.com/maroonedace/Pokedex-Ace)**  
   A lightweight cross-platform app that allows the user to view Pokemon in a TCG inspired card format.
