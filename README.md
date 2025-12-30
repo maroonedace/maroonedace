@@ -1,10 +1,5 @@
 [<img src="https://github.com/user-attachments/assets/255bc065-3704-4379-9af6-4a92783f9119" alt="👋 Hi there! I'm Anthony Ostia|(https://anthonyostia.com)" title="👋 Hi there! I'm Anthony Ostia|(https://anthonyostia.com)"/>](https://anthonyostia.com)
 
-# Hi, I'm Anthony Ostia
-I am a Software Engineer based in Southern California with a passion for building and exploring across the technical spectrum. My experience includes developing full stack web applications, crafting immersive VR environments, contributing to game development, and performing insightful data analysis powered by machine learning and AI.
-
-I enjoy tackling complex problems and bringing ideas to life through clean code, thoughtful design, and user-focused experiences. Whether refining front-end interfaces, optimizing back-end systems, advancing immersive VR and game development, or applying machine learning for data-driven insights, I am always eager to push boundaries and learn something new.
-
 ##  About Me
 - 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Degree in 𝙲ognitive Science 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 California - San Diego, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸0
 
@@ -47,15 +42,7 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CE2C4F?logo=ruby&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
 
-### Machine Learning & Data Science  
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ### DevOps & Infrastructure
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
@@ -69,18 +56,13 @@ I enjoy tackling complex problems and bringing ideas to life through clean code,
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 
-### Design Systems & Prototyping  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E.svg?logo=aseprite&logoColor=white)
-
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?logo=godot-engine&logoColor=white)
 
 ## Featured Projects
-- **[A Doki to Remember](https://github.com/maroonedace/A-Doki-To-Remember/)**  
-  A game jam project developed over two weeks.
+- **[Criwin](https://github.com/maroonedace/Criwin/)**  
+  A discord bot for the Crimson Winter Mountain.
   
 - **[Food Quest](https://github.com/maroonedace/FoodQuest)**  
   XR app teaching users how to nourish themselves through nutrition.
