@@ -1,3 +1,6 @@
+[<img src="https://github.com/user-attachments/assets/255bc065-3704-4379-9af6-4a92783f9119" alt="👋 Hi there! I'm Anthony Ostia|(https://anthonyostia.com)" title="👋 Hi there! I'm Anthony Ostia|(https://anthonyostia.com)"/>](https://anthonyostia.com)
+
+
 # Hi, I'm Anthony Ostia
 I am a Software Engineer based in Southern California with a passion for building and exploring across the technical spectrum. My experience includes developing full stack web applications, crafting immersive VR environments, contributing to game development, and performing insightful data analysis powered by machine learning and AI.
 
