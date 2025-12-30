@@ -1,14 +1,12 @@
 [<img src="https://github.com/user-attachments/assets/255bc065-3704-4379-9af6-4a92783f9119" alt="👋 Hi there! I'm Anthony Ostia|(https://anthonyostia.com)" title="👋 Hi there! I'm Anthony Ostia|(https://anthonyostia.com)"/>](https://anthonyostia.com)
 
-
 # Hi, I'm Anthony Ostia
 I am a Software Engineer based in Southern California with a passion for building and exploring across the technical spectrum. My experience includes developing full stack web applications, crafting immersive VR environments, contributing to game development, and performing insightful data analysis powered by machine learning and AI.
 
 I enjoy tackling complex problems and bringing ideas to life through clean code, thoughtful design, and user-focused experiences. Whether refining front-end interfaces, optimizing back-end systems, advancing immersive VR and game development, or applying machine learning for data-driven insights, I am always eager to push boundaries and learn something new.
 
-## Portfolio
-[Live website →](https://anthonyostia.com)  
-[Source code →](https://github.com/maroonedace/Portfolio)
+##  About Me
+- 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Degree in 𝙲ognitive Science 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 California - San Diego, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸0
 
 ## Tech Stack
 ### Programming Languages
