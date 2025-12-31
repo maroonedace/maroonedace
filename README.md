@@ -1,6 +1,6 @@
 <img width="6912" height="3456" alt="Anthony Ostia Github Banner" src="https://github.com/user-attachments/assets/7f90c4ea-ab99-4562-aa93-70b5553df9d3" />
 
-[Portfolio](anthonyostia.com)
+[Portfolio](https://anthonyostia.com)
 
 ## About Me
 Full stack software engineer with over 4 years of experience building and maintaining full stack applications
