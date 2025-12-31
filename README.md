@@ -2,6 +2,9 @@
 
 [Portfolio](anthonyostia.com)
 
+## About Me
+Full stack software engineer with over 4 years of experience building and maintaining full stack applications
+
 ## Core Stack
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000)
@@ -12,6 +15,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-257BD6?logo=docker&logoColor=white)
 
 ## Supporting Tools
@@ -21,20 +25,19 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 ## Currently Learning
+Actively exploring through side projects and experimentation
+
 ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
-
 ## Featured Projects
 - **[Criwin](https://github.com/maroonedace/Criwin/)**  
-  A discord bot for the Crimson Winter Mountain.
+A Discord bot built in Python that handles audio and video conversion along with soundboard commands for a community server
 
 - **[AceDex](https://github.com/maroonedace/Pokedex-Ace)**  
-  A lightweight cross-platform app that allows the user to view Pokemon in a TCG inspired card format.
+A cross platform Tauri app using React and Rust that integrates with Supabase to display structured Pokémon data in a TCG inspired UI
