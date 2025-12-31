@@ -1,4 +1,4 @@
-<img width="6912" height="3456" alt="Anthony Ostia Github Banner" src="https://github.com/user-attachments/assets/7f90c4ea-ab99-4562-aa93-70b5553df9d3" />
+<img width="800" height="320" alt="Anthony Ostia Github Banner" src="https://github.com/user-attachments/assets/84780418-57a4-4aed-a551-9378e0c6ea91" />
 
 [Portfolio](https://anthonyostia.com)
 
