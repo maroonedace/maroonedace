@@ -15,7 +15,6 @@ Full stack software engineer with over 4 years of experience building and mainta
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-257BD6?logo=docker&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)
 
 ## Supporting Tools
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000.svg?&logo=ruby&logoColor=white)
