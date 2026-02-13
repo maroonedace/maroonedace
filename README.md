@@ -34,8 +34,8 @@ Actively exploring through side projects and experimentation
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ## Featured Projects
-- **[Criwin](https://github.com/maroonedace/Criwin/)**  
-A Discord bot built in Python that handles audio and video conversion along with soundboard commands for a community server
+- **[Criwin](https://github.com/maroonedace/Criwin/)**
+A Python-based Discord bot implementing async audio processing and custom soundboard features using Discord.py and yt-dlp libraries.
 
-- **[AceDex](https://github.com/maroonedace/Pokedex-Ace)**  
-A cross platform Tauri app using React and Rust that integrates with Supabase to display structured Pokémon data in a TCG inspired UI
+- **[Castaway-Ace](https://github.com/castaway-ace)**  
+A self-hosted music streaming platform built with Nest.js, PostgreSQL, and MinIO, containerized with Docker and deployed on personal infrastructure.
