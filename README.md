@@ -34,8 +34,6 @@ Actively exploring through side projects and experimentation
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ## Featured Projects
-- **[Castaway-Ace](https://github.com/castaway-ace)**  
-Music streaming platform with a React Native client and Nest.js backend, using PostgreSQL and AWS S3. Backend containerized with Docker.
+**[Castaway-Ace](https://github.com/castaway-ace)** - Music streaming platform with a React Native client and Nest.js backend, using PostgreSQL and AWS S3. Backend containerized with Docker.
 
-- **[Criwin](https://github.com/maroonedace/Criwin/)**
-Personal Discord bot with multi-platform media ingestion from YouTube, Instagram, and Reddit, plus voice channel audio playback. Built with Python and Discord.py, using PostgreSQL for metadata and MinIO for audio storage.
+**[Criwin](https://github.com/maroonedace/Criwin/)** - Personal Discord bot with multi-platform media ingestion from YouTube, Instagram, and Reddit, plus voice channel audio playback. Built with Python and Discord.py, using PostgreSQL for metadata and MinIO for audio storage.
