@@ -3,15 +3,14 @@
 [Portfolio](https://anthonyostia.com)
 
 ## About Me
-Full stack software engineer with over 4 years of experience building and maintaining full stack applications
+Full Stack Software Engineer with four years of experience building responsive web applications across React, TypeScript, and Node.js. Focus on performance optimization, clean architecture, and shipping maintainable code in fast-moving startup environments.
 
 ## Core Stack
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
 ![React](https://shields.io/badge/React-61DAFB?logo=React&logoColor=000)
-![Python](https://shields.io/badge/Python-3776AB?logo=Python&logoColor=FFF)
 ![Next.js](https://shields.io/badge/Next.js-000?logo=Next.js&logoColor=FFF)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-257BD6?logo=docker&logoColor=white)
@@ -19,6 +18,7 @@ Full stack software engineer with over 4 years of experience building and mainta
 ## Supporting Tools
 ![Ruby](https://img.shields.io/badge/Ruby-CC0000.svg?&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Python](https://shields.io/badge/Python-3776AB?logo=Python&logoColor=FFF)
 ![Rust](https://img.shields.io/badge/Rust-FFFFFF.svg?&logo=rust&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
@@ -34,8 +34,8 @@ Actively exploring through side projects and experimentation
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ## Featured Projects
-- **[Criwin](https://github.com/maroonedace/Criwin/)**
-A Python-based Discord bot implementing async audio processing and custom soundboard features using Discord.py and yt-dlp libraries.
-
 - **[Castaway-Ace](https://github.com/castaway-ace)**  
-A self-hosted music streaming platform built with Nest.js, PostgreSQL, and MinIO, containerized with Docker and deployed on personal infrastructure.
+Music streaming platform with a React Native client and Nest.js backend, using PostgreSQL and AWS S3. Backend containerized with Docker.
+
+- **[Criwin](https://github.com/maroonedace/Criwin/)**
+Personal Discord bot with multi-platform media ingestion from YouTube, Instagram, and Reddit, plus voice channel audio playback. Built with Python and Discord.py, using PostgreSQL for metadata and MinIO for audio storage.
