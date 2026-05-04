@@ -34,6 +34,6 @@ Actively exploring through side projects and experimentation
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ## Featured Projects
-**[Castaway-Ace](https://github.com/castaway-ace)** - A mobile music streaming app, similar to Spotify, where users can browse, play, and manage their own audio library.
+**[Castaway](https://github.com/castaway-ace)** - A mobile music streaming app, similar to Spotify, where users can browse, play, and manage their own audio library.
 
 **[Criwin](https://github.com/maroonedace/Criwin/)** - A Discord bot that lets users download short form videos and play audio on demand from platforms like YouTube, TikTok, Instagram, and Reddit.
