@@ -3,7 +3,7 @@
 [Portfolio](https://anthonyostia.com)
 
 ## About Me
-Full Stack Software Engineer with four years of experience building responsive web applications across React, TypeScript, and Node.js. Focus on performance optimization, clean architecture, and shipping maintainable code in fast-moving startup environments.
+Full Stack Software Engineer with five years of experience building responsive web applications across React, TypeScript, and Node.js. Focus on performance optimization, clean architecture, and shipping maintainable code in fast-moving startup environments.
 
 ## Core Stack
 
