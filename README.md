@@ -45,12 +45,6 @@ Full Stack Software Engineer with five years of experience building responsive w
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
 
-## Currently Learning
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff)
-
 ## Featured Projects
 **[Castaway](https://github.com/castaway-ace)** - A mobile music streaming app, similar to Spotify, where users can browse, play, and manage their own audio library.
 
